@@ -38,10 +38,6 @@ Welcome to the SMS-Spam Detection! This application helps you determine if a SMS
 - [spam.pkl](http://_vscodecontentref_/1): The pre-trained machine learning model.
 - [vectorizer.pkl](http://_vscodecontentref_/2): The vectorizer used to transform SMS text.
 
-## Simple Output Of The Project
-
-![image](https://github.com/user-attachments/assets/afc047d0-071e-4a4c-9dc5-87d17fb5d63c)
-
 
 ## Contributing
 
