@@ -33,5 +33,4 @@ if st.button("🔍 Detect"):
 # Footer
 st.write('---')
 st.write('Developed by Faiz Ansari')
-st.write('For more information, visit our https://github.com/faizansari45/SMS-Spam-Detection.git')
 st.write('Contact us at ansarifaiz0905@gmail.com')
