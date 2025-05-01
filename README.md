@@ -12,7 +12,7 @@ Welcome to the SMS-Spam Detection! This application helps you determine if a SMS
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/faizansari45/SMS-Spam-Detection.git
+    git clone https://github.com/faiz-ansari09/SMS-Spam-Detection.git
     cd SMS-Spam Detection
     ```
 
@@ -49,4 +49,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Developed by Faiz Ansari. For more information, visit our [GitHub repository](https://github.com/faizansari45/SMS-Spam-Detection.git) or contact us at ansarifaiz0905@gmail.com.
+Developed by Faiz Ansari. For more information, visit our [GitHub repository](https://github.com/faiz-ansari09/SMS-Spam-Detection.git) or contact us at ansarifaiz0905@gmail.com.
