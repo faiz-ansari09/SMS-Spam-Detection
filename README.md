@@ -1,11 +1,11 @@
 # 📧 SMS-Spam Detection
 
-Welcome to the SMS-Spam Detection! This application helps you determine if a SMS is spam or not using a machine learning model.
+Welcome to SMS-Spam Detection! This application helps you determine if an SMS is spam or not using a machine learning model.
 
 ## Features
 
 - **User-friendly Interface**: Enter your SMS text and detect it with a single click.
-- **Real-time Detection**: Get instant results on whether the SMS is spam or not.
+- **Real-time Detection**: Get instant results on whether the SMS is Spam or not.
 - **Professional Design**: Clean and minimalistic design for a professional look.
 
 ## Installation
